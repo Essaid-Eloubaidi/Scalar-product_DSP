@@ -1,0 +1,1 @@
+"./prod_pipl.obj" "./prod_asm.obj" "./mainfloat.obj" "./main.obj" "./csl_tsc.obj" "./_asm_piplSIMD.obj" "./DOTP4H_sansPIP.obj" "../hello2.cmd" -l"libc.a" 
